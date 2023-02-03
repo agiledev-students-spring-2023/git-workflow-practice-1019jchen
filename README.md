@@ -8,4 +8,6 @@ This article from the Wall Street Journal was titled "As Deal Making Picks Up, T
 
 While I originally would have thought that mergers and acquisitions would primarily be positive for customers of these tech companies, the article states that many customers should expect many potential downsides. After a big integration, some tech companies end up offering an unwieldly bundle of unrelated tools and services rather than one unified service. Just because M&A might look attractive on its surface, it might not be effective in practice. This article makes me wonder if there will be pushback against M&A in tech in the near future.
 
+
+## Comments
 * Comment by Matthew Dong: I've seen a lot of mergers happen for other companies before, so it makes sense that some tech companies want to do it as well. Hopefully any mergers will turn out well for the consumers as well, and not just the business side of things.
